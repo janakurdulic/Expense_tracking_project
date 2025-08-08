@@ -20,7 +20,9 @@ The dataset consist of fictional business expenses across various categories suc
 
 # Author 
 Made by Jana Kurdulić, Student of Information Technology at Singidunum University (Aspiring Data Analyst)
+
 Location: Serbia
+
 Project originally conducted in Serbian and English.
 
 This is my first Data Analyst projects. I started with Excel to build a strong foundation before moving to Python and SQL. I am still learning and this project is part of my journey toward becoming a Data Analyst.
